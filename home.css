@@ -1,0 +1,17 @@
+#msg{
+    padding: 0px;
+    margin: 0px;
+    position: fixed;
+    bottom: -350px;
+    background-color: aliceblue;
+    max-width: 300px;
+    height: 400px;
+    border: 1px solid #3498DB;
+}
+#msg-top{
+    background-color:#3498DB;
+    height:50px;
+    width:100%;
+    margin-bottom:20px;
+    cursor:pointer;
+ }
